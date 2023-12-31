@@ -64,7 +64,7 @@ def get_trending_playlist_data(playlist_id, access_token):
 
 playlist_id = '37i9dQZF1DX76Wlfdnj7AP'
 #playlist_id = int(input("Enter your playlist id - "))
-access_token = 'BQD_f6geaEmFTP-mx4jJ6h66z7QC1-L-ZJSXXcgqxrRDs4J4Bc_95P7LREX8AE4x5UAzfA-m41Se4OfqWlMbqsk6swe_Cq54wC7325HTkd5qcRvKhh4'
+access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 music_df = get_trending_playlist_data(playlist_id, access_token)
 print(music_df)
 print(music_df.isnull().sum())
