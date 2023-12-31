@@ -2,8 +2,8 @@ import requests
 import base64
 
 # Replace with your own Client ID and Client Secret
-CLIENT_ID = '321f6f02bd3f46a3b20609e96cb3ee4a'
-CLIENT_SECRET = '53ac6c8a04a14d9ab8b4a8755129dd95'
+CLIENT_ID = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+CLIENT_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Base64 encode the client ID and client secret
 client_credentials = f"{CLIENT_ID}:{CLIENT_SECRET}"
