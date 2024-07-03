@@ -1,7 +1,7 @@
 # Spotify Music Recommendations Project
 
 ## Introduction
-#### This repository hosts a Python script developed by a college student to harness the power of the Spotify API. The script goes beyond simple playlist retrieval; it analyzes trending playlists and provides comprehensive music recommendations based on both content features and popularity scores. 
+#### This repository hosts a Python script developed by me to harness the power of the Spotify API. The script goes beyond simple playlist retrieval; it analyzes trending playlists and provides comprehensive music recommendations based on both content features and popularity scores. 
 #### The project is intended to showcase the student's programming skills and understanding of data manipulation, API integration, and recommendation algorithms. The code is structured into distinct parts, each serving a specific function.
 
 ## Overview
